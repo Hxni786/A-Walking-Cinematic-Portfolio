@@ -7,14 +7,18 @@
   </p>
 
   <p align="center">
-    <a href="https://hxnix-gold.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Demo-hxnix--gold.vercel.app-d4af37?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+    <a href="https://a-talking-cinematic-portfolio-yfq6.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-a--talking--cinematic--portfolio-d4af37?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
     </a>
     <a href="https://instagram.com/the.cipher.stack" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-@the.cipher.stack-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://github.com/Hxni786" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-Hxni786-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  <p align="center">
+    <a href="https://a-talking-cinematic-portfolio-yfq6.vercel.app/" target="_blank">
+      <img src="./public/hero-preview.png" alt="Cinematic Portfolio Hero Preview" width="100%" />
     </a>
   </p>
 
@@ -151,7 +155,8 @@ Replace `public/videos/hero.mp4` with any high-definition MP4 clip. For optimal 
 
 Developed and designed with precision by **Hxni** (**Syed Hassan Dildar**).
 
-- 🌐 **Portfolio**: [hxnix-gold.vercel.app](https://hxnix-gold.vercel.app/)
+- 🌐 **Live Website**: [a-talking-cinematic-portfolio-yfq6.vercel.app](https://a-talking-cinematic-portfolio-yfq6.vercel.app/)
+- 🌐 **3D Nexus Portfolio**: [hxnix-gold.vercel.app](https://hxnix-gold.vercel.app/)
 - 📸 **Instagram**: [@the.cipher.stack](https://www.instagram.com/the.cipher.stack/)
 - 💻 **GitHub**: [@Hxni786](https://github.com/Hxni786)
 - 💼 **LinkedIn**: [syed-hassan-dildar](https://www.linkedin.com/in/syed-hassan-dildar-b40649400)
